@@ -11,5 +11,6 @@ public class Main {
     private static void changeValue(Person value) {
         value.setName("Maxsim");
         value.setSurname("Galkin");
+
     }
 }
